@@ -1,0 +1,35 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\ayden\AppData\Local\UnrealBuildTool\Log.txt
+  Building SideRunnerEditor...
+  Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from SideRunner unity file: SideRunner.cpp, SideRunnerCharacter.cpp, SideRunnerGameMode.cpp, RunnerCharacter.cpp, Obstacle.cpp, Spikes.cpp
+  Determining max actions to execute in parallel (4 physical cores, 8 logical cores)
+    Executing up to 4 processes, one per physical core
+    Requested 1.5 GB free memory per action, 1.18 GB available: limiting max parallel actions to 1
+  Building 15 actions with 1 process...
+  [1/15] Compile RunnerCharacter.cpp
+D:\Raquel\GitHub\C-and-Unreal-Engine-Projects\GameSubmission\SideRunner\Source\SideRunner\RunnerCharacter.cpp(67): error C2146: syntax error: missing ';' before identifier 'PlayerInputComponent'
+D:\Raquel\GitHub\C-and-Unreal-Engine-Projects\GameSubmission\SideRunner\Source\SideRunner\RunnerCharacter.cpp(72): error C2059: syntax error: ')'
+D:\Raquel\GitHub\C-and-Unreal-Engine-Projects\GameSubmission\SideRunner\Source\SideRunner\RunnerCharacter.cpp(79): error C2065: 'UPrimativeComponent': undeclared identifier
+D:\Raquel\GitHub\C-and-Unreal-Engine-Projects\GameSubmission\SideRunner\Source\SideRunner\RunnerCharacter.cpp(79): error C2065: 'OverlappedComp': undeclared identifier
+D:\Raquel\GitHub\C-and-Unreal-Engine-Projects\GameSubmission\SideRunner\Source\SideRunner\RunnerCharacter.cpp(80): error C2065: 'OtherActor': undeclared identifier
+D:\Raquel\GitHub\C-and-Unreal-Engine-Projects\GameSubmission\SideRunner\Source\SideRunner\RunnerCharacter.cpp(80): error C2275: 'AActor': illegal use of this type as an expression
+D:\Raquel\GitHub\C-and-Unreal-Engine-Projects\GameSubmission\SideRunner\Source\SideRunner\RunnerCharacter.cpp(80): error C2065: 'UPrimativeComponent': undeclared identifier
+D:\Raquel\GitHub\C-and-Unreal-Engine-Projects\GameSubmission\SideRunner\Source\SideRunner\RunnerCharacter.cpp(80): error C2065: 'OtherComp': undeclared identifier
+D:\Raquel\GitHub\C-and-Unreal-Engine-Projects\GameSubmission\SideRunner\Source\SideRunner\RunnerCharacter.cpp(81): error C2275: 'int32': illegal use of this type as an expression
+  C:\Program Files\Epic Games\UE_5.0\Engine\Source\Runtime\Core\Public\HAL\Platform.h(1018): note: see declaration of 'int32'
+D:\Raquel\GitHub\C-and-Unreal-Engine-Projects\GameSubmission\SideRunner\Source\SideRunner\RunnerCharacter.cpp(81): error C2146: syntax error: missing ')' before identifier 'OtherBodyIndex'
+D:\Raquel\GitHub\C-and-Unreal-Engine-Projects\GameSubmission\SideRunner\Source\SideRunner\RunnerCharacter.cpp(81): error C2143: syntax error: missing ';' before '{'
+D:\Raquel\GitHub\C-and-Unreal-Engine-Projects\GameSubmission\SideRunner\Source\SideRunner\RunnerCharacter.cpp(81): error C2447: '{': missing function header (old-style formal list?)
+  [2/15] Compile Obstacle.cpp
+  [3/15] Compile RunnerCharacter.gen.cpp
+  [4/15] Compile SideRunner.init.gen.cpp
+  [5/15] Compile SideRunnerGameMode.gen.cpp
+  [6/15] Compile Spikes.cpp
+  [7/15] Compile SideRunner.cpp
+  [8/15] Compile SideRunnerCharacter.gen.cpp
+  [9/15] Compile SideRunnerCharacter.cpp
+  [10/15] Compile SideRunnerGameMode.cpp
+  [11/15] Compile Spikes.gen.cpp
+  [12/15] Compile Obstacle.gen.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_5.0\Engine\Build\BatchFiles\Build.bat" SideRunnerEditor Win64 Development -Project="D:\Raquel\GitHub\C-and-Unreal-Engine-Projects\GameSubmission\SideRunner\SideRunner.uproject" -WaitMutex -FromMsBuild" exited with code 6.

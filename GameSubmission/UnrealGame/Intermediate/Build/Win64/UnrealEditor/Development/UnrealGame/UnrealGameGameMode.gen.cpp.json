@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\unrealgame\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealgame\\unrealgamegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\unrealgame\\intermediate\\build\\win64\\unrealgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\unrealgame\\intermediate\\build\\win64\\unrealeditor\\development\\unrealgame\\definitions.unrealgame.h",
+            "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\unrealgame\\source\\unrealgame\\unrealgamegamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\unrealgame\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealgame\\unrealgamegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

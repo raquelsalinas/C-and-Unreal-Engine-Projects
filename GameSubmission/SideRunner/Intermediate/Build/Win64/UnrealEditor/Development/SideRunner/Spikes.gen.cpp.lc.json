@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\siderunner\\intermediate\\build\\win64\\unrealeditor\\inc\\siderunner\\spikes.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\siderunner\\intermediate\\build\\win64\\siderunnereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\siderunner\\intermediate\\build\\win64\\unrealeditor\\development\\siderunner\\definitions.siderunner.h",
+            "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\siderunner\\source\\siderunner\\spikes.h",
+            "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\siderunner\\intermediate\\build\\win64\\unrealeditor\\inc\\siderunner\\spikes.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

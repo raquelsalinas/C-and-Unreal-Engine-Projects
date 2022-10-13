@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Raquel\\GitHub\\C-and-Unreal-Engine-Projects\\GameSubmission\\UnrealGame\\Source\\UnrealGame\\UnrealGame.Build.cs",
+		"D:\\Raquel\\GitHub\\C-and-Unreal-Engine-Projects\\GameSubmission\\UnrealGame\\Source\\UnrealGame.Target.cs",
+		"D:\\Raquel\\GitHub\\C-and-Unreal-Engine-Projects\\GameSubmission\\UnrealGame\\Source\\UnrealGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

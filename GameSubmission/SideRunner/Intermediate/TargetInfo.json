@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SideRunner",
+			"Path": "D:\\Raquel\\GitHub\\C-and-Unreal-Engine-Projects\\GameSubmission\\SideRunner\\Source\\SideRunner.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SideRunnerEditor",
+			"Path": "D:\\Raquel\\GitHub\\C-and-Unreal-Engine-Projects\\GameSubmission\\SideRunner\\Source\\SideRunnerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\unrealgame\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealgame\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\unrealgame\\intermediate\\build\\win64\\unrealgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\unrealgame\\intermediate\\build\\win64\\unrealeditor\\development\\unrealgame\\definitions.unrealgame.h",
+            "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\unrealgame\\source\\unrealgame\\tp_weaponcomponent.h",
+            "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\unrealgame\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealgame\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

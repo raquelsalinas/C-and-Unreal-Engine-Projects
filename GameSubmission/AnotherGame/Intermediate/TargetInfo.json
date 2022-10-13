@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AnotherGame",
+			"Path": "D:\\Raquel\\GitHub\\C-and-Unreal-Engine-Projects\\GameSubmission\\AnotherGame\\Source\\AnotherGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AnotherGameEditor",
+			"Path": "D:\\Raquel\\GitHub\\C-and-Unreal-Engine-Projects\\GameSubmission\\AnotherGame\\Source\\AnotherGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

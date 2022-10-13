@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\anothergame\\intermediate\\build\\win64\\unrealeditor\\inc\\anothergame\\mypawn.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\anothergame\\intermediate\\build\\win64\\anothergameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\anothergame\\intermediate\\build\\win64\\unrealeditor\\development\\anothergame\\definitions.anothergame.h",
+            "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\anothergame\\source\\anothergame\\mypawn.h",
+            "d:\\raquel\\github\\c-and-unreal-engine-projects\\gamesubmission\\anothergame\\intermediate\\build\\win64\\unrealeditor\\inc\\anothergame\\mypawn.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
